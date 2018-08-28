@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="topic">
+    <button> 热门情侣头像 </button>
+  </view>
+
+  <image class='imageWidth' src='../image/1.jpg'></image>
+
+  <view class='fontAdjust'><text>每日更新一组图片</text></view>
+
+  <image class='imageWidth' src='../image/2.jpg'></image>
+  
+  
+</view>
